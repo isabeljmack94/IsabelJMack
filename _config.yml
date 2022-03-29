@@ -50,10 +50,18 @@ author:
 menu:
   - title:             FOCUS AREA 2.6 (Information Communication and Technology)
     url:               /example/
+<br>
+<br>
   - title:             FOCUS AREA 3.5 (Select and Use Resources) 
     url:               /SelectandUseResources/
+<br>
+<br>
   - title:             FOCUS AREA 4.5 (Use ICT Safely, responsibly and ethically) 
     url:               /UseICTSafelyresponsiblyandethically/
+<br>
+<br>
+  - title:             REFERENCES
+    url:               /references/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
