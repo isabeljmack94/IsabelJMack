@@ -110,7 +110,7 @@ The defaults are:
 # file: `_config.yml`
 font:         Noto Sans, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Helvetica, Arial, sans-serif
-google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+google_fonts: Roboto+Slab:600|Noto+Sans:400,400i,600,600i
 ~~~
 
 `font` and `font_heading` must be valid CSS `font-family` values. When using Google Fonts make sure to provide at least one fallback.
