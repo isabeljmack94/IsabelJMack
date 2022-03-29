@@ -50,10 +50,16 @@ author:
 menu:
   - title:             FOCUS AREA 2.6 (Information Communication and Technology)
     url:               /example/
+
+
   - title:             FOCUS AREA 3.5 (Select and Use Resources) 
     url:               /SelectandUseResources/
+
+
   - title:             FOCUS AREA 4.5 (Use ICT Safely, responsibly and ethically) 
     url:               /UseICTSafelyresponsiblyandethically/
+
+
   - title:             REFERENCES
     url:               /references/
 
