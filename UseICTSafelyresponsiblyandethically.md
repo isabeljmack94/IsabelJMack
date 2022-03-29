@@ -14,10 +14,10 @@ The need for Technology is ever-growing amongst Australian Schools and within th
 <br>
 <br>
 
-# Below, is a list of Quiz Questions that can be used via Menti.com to assess and inform student’s understanding of ICT Safety. 
+# Below is a list of Quiz Questions that can be used via Menti.com to assess and inform student’s understanding of ICT Safety. 
 <br>
 
-#How is ICT used in Society? 
+# How is ICT used in Society? 
 <br>
 •	Students were encouraged to question, ‘How can we use social media to better society?’
 <br>
@@ -26,12 +26,12 @@ The need for Technology is ever-growing amongst Australian Schools and within th
 •	Students were asked the following: ‘If you were to create your own social media campaign in today’s society, what would it be about and why?’
 <br>
 
-#How can ICT be used to improve learning? 
+# How can ICT be used to improve learning? 
 <br>
 •	Students were asked, ‘How social media and multi-media platforms can improve their understanding of topics and globalized issues in society?’
 <br>
 •	Is online harassment, abuse and threatening behaviour considering a criminal offence here in Australia? 
-#Impact of ICT on Mental Health and Wellbeing. 
+# Impact of ICT on Mental Health and Wellbeing. 
 <br>
 <br>
 •	Students were asked, ‘Why they think the impact of online bullying is greater than face-to-face bullying amongst workplaces and schools?’.
